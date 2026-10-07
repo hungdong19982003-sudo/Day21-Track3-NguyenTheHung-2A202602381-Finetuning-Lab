@@ -20,6 +20,8 @@ results/*.csv
 !results/.gitkeep
 gguf/
 *.gguf
+*.zip
+!lab21_*.zip
 runs/
 wandb/
 

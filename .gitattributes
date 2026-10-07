@@ -1,0 +1,2 @@
+# Ensure JSONL files always keep LF line endings on Windows so checksums don't drift
+*.jsonl text eol=lf
